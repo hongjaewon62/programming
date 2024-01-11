@@ -16,7 +16,7 @@
     </li>
     <li>
         <h3>Development Member</h3>
-        홍재원
+        김진석, 송진우, 홍재원
     </li>
     <li>
         <h3>Target Platform</h3>
